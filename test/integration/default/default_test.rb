@@ -5,6 +5,6 @@
 
 
 # This is an example test, replace it with your own test.
-describe service "nodejs" do
+describe package "nodejs" do
   it { should be_installed }
 end
